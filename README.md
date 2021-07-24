@@ -37,5 +37,5 @@ $ npm run test:cov
 
 ## Stay in touch
 
-- Author - [Mamta](hhttps://www.linkedin.com/in/mamta-rathore-01b1779b)
+- Author - [Mamta](https://www.linkedin.com/in/mamta-rathore-01b1779b)
 
